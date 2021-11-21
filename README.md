@@ -2,7 +2,7 @@
 - [x] Currently, I'm a student at "Sela" college in "Yahalom" project. 
 - [x] I'm a Junior FullStack Software Developer.
 - [x] I'm really motivated and desired to learn, improve and contribute from my knownledge.
-- [ ] I have high comprehension and self-learning abilities.
+- [x] I have high comprehension and self-learning abilities.
 - [x] A really good team player 
 
 
